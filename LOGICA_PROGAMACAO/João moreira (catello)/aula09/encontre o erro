@@ -1,0 +1,25 @@
+# 1. O Problema da Idade
+# idade = int(input("Digite sua idade: "))
+# if idade >= 18:
+#     print("Você é maior de idade")
+# if idade >= 16:
+#     print("Você é menor de idade")
+ 
+# 2. A Escrita Fiel
+# nome = "Mariana"
+# print("Seja bem-vinda, Mariana!")
+# 3. Falta de Espaço
+# numero = 0
+# if numero > 5:
+#     numero =  int(input("digite o seu numero"))
+#     print("O número é maior que cinco.")
+# else:
+#  print("O número é menor ou igual a cinco.")
+# # 4. Esquecimento Fatal
+# usuario = "aluno123"
+# if usuario == "aluno123":
+#  print("Login realizado com sucesso.")
+# 5. Atribuição vs. Comparação
+# clima = "ensolarado"
+# if clima = "chuvoso":
+# print("Leve um guarda-chuva!")
